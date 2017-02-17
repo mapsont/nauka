@@ -3,7 +3,7 @@ public class resztaZdziel{
 		int i=1;
 		while(i<20){
 			i++; 
-			if(i%2!=00) continue;
+			if(i%2!=0) continue;
 			System.out.println(i); 
 					
 		
