@@ -1,14 +1,13 @@
-public class petelki{
-	
-	public static void main (String args[]){
+public class resztaZdziel{
+	public static void main(String args[]){
+		int i=1;
+		while(i<20){
+			i++; 
+			if(i%2!=00) continue;
+			System.out.println(i); 
+					
 		
-		int i =1;
-		int a;
-		while(i<7){
-			a=i*3;
-			System.out.println(a);
-			i++;
-			
-		}
+		}	
 	}
+	
 }
